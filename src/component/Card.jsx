@@ -1,4 +1,5 @@
 import icon from "../assets/icon.png";
+import "./style.scss";
 
 function Card() {
   return (
